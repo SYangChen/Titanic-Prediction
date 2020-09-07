@@ -12,6 +12,7 @@ python3 titanic-prediction.py
 
 # Co-Author
 陳少洋 / github : SYangChen
+
 王譽鈞 / github : YJWang94108
 
 ## License
